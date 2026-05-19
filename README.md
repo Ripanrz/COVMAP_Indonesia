@@ -21,24 +21,19 @@
 
 ## ✨ Fitur Utama Analisis
 
-1. **Peta Interaktif Persebaran (Mapping)** 🗺️
-
+1. **Peta Interaktif Persebaran (Mapping)** 🗺️ <br>
    Menyajikan peta interaktif yang memvisualisasikan persebaran COVID-19 di seluruh provinsi di Indonesia secara jelas dan informatif.
 
-3. **Akumulasi Kasus (2020 - 2022)** 📈
-
+3. **Akumulasi Kasus (2020 - 2022)** 📈 <br>
    Menampilkan total kasus terkonfirmasi dari tahun 2020 hingga akhir tahun 2022 dalam format angka dan metrik yang komprehensif.
 
-4. **Metrik Kematian (Fatality Analysis)** ⚰️
-
+4. **Metrik Kematian (Fatality Analysis)** ⚰️ <br>
    Menyediakan data yang mendetail dan akurat mengenai angka kematian (*mortality rate*) yang disebabkan oleh virus COVID-19.
 
-5. **Identifikasi Titik Kritis (Hotspots)** 🔴
-
+5. **Identifikasi Titik Kritis (Hotspots)** 🔴 <br>
    Menyoroti provinsi-provinsi dengan angka kasus positif dan tingkat kematian tertinggi untuk membantu memahami pola persebaran virus dengan cepat.
 
-7. **Tinjauan Tren Waktu (Time-Series Trend)** ⏳
-
+7. **Tinjauan Tren Waktu (Time-Series Trend)** ⏳ <br>
    Menyajikan grafik tren pandemi dari waktu ke waktu (berdasarkan bulan/tahun) sebagai bahan evaluasi historis dan pembelajaran penanganan wabah.
 
 ---
