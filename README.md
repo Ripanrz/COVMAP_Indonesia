@@ -15,7 +15,7 @@
 **[Klik di sini untuk melihat Dashboard COVMAP Indonesia secara interaktif di Looker Studio](https://lookerstudio.google.com/reporting/5f7d260d-a6c9-4714-98e1-e560fa8a5748)**
 
 <!-- Silakan unggah screenshot dashboard ke GitHub, lalu ganti tautan di bawah -->
-![Preview Dashboard COVMAP](Documentation/Covid-19_In_Indonesia.jpg)
+![Preview Dashboard COVMAP](Documentation/Covid-19_In_Indonesia.png)
 
 ---
 
