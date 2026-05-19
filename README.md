@@ -55,7 +55,7 @@
 
 ```mermaid
 graph LR
-    A[(Dataset Kaggle)] -->|Unduh & Ekstrak| B(Pengolahan/Pembersihan Data (Python))
+    A[(Dataset Kaggle)] -->|Unduh & Ekstrak| B("Pengolahan/Pembersihan Data (Python)")
     B -->|Import Data| C[Google Looker Studio]
     C -->|Visualisasi Data| D{Dashboard COVMAP}
     
