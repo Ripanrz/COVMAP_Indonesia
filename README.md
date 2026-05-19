@@ -1,8 +1,8 @@
-# COVMAP Indonesia (Covid-19 Mapping Indonesia) 🇮🇩🦠
+# COVMAP Indonesia (Covid-19 Mapping Indonesia)
 
 ![Timeline](https://img.shields.io/badge/Timeline-Sep_2023-8A2BE2)
-![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)
-![Tools](https://img.shields.io/badge/Visualization-Looker_Studio-orange)
+![[Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/datasets/hendratno/covid19-indonesia)
+![[Tools](https://img.shields.io/badge/Visualization-Looker_Studio-orange)](https://lookerstudio.google.com/reporting/5f7d260d-a6c9-4714-98e1-e560fa8a5748)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 **COVMAP Indonesia** adalah sebuah proyek analisis data dan visualisasi yang menyajikan peta interaktif persebaran COVID-19 di Indonesia. Proyek ini bertujuan untuk mengubah data mentah menjadi wawasan (*insights*) yang jelas dan informatif mengenai dampak pandemi dari tahun 2020 hingga 2022.
@@ -14,8 +14,8 @@
 ## 🔗 Tautan Dashboard
 **[Klik di sini untuk melihat Dashboard COVMAP Indonesia secara interaktif di Looker Studio]((https://lookerstudio.google.com/reporting/5f7d260d-a6c9-4714-98e1-e560fa8a5748))**
 
-<!-- Silakan unggah screenshot dashboard Anda ke GitHub, lalu ganti tautan di bawah -->
-![Preview Dashboard COVMAP](https://via.placeholder.com/800x400?text=Screenshot+Dashboard+Looker+Studio)
+<!-- Silakan unggah screenshot dashboard ke GitHub, lalu ganti tautan di bawah -->
+![Preview Dashboard COVMAP](Documentation/Covid-19_In_Indonesia.jpg)
 
 ---
 
